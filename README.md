@@ -4,7 +4,7 @@ Here is the mini project of pre-test at PrivyId for Frontend Engineer's role.
 
 ## About
 
-This project was created using the nuxt.js framework
+This project was created using the nuxt.js framework (Ver. 3 Release Candidate).
 
 ## Prerequisites
 
