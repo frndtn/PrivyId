@@ -1,6 +1,14 @@
-# Nuxt 3 Minimal Starter
+# PrivyId PreTest FE
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+Here is the mini project of pre-test at PrivyId for Frontend Engineer's role.
+
+## About
+
+This project was created using the nuxt.js framework
+
+## Prerequisites
+
+Node.js installed (Recommendation : Current version). Download [here] (https://nodejs.org/en/download/) to have node.js on your machine.
 
 ## Setup
 
@@ -24,19 +32,3 @@ Start the development server on http://localhost:3000
 ```bash
 npm run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
