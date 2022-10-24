@@ -8,7 +8,7 @@ This project was created using the nuxt.js framework (Ver. 3 Release Candidate).
 
 ## Prerequisites
 
-Node.js installed (Recommendation : Current version). Download [here] (https://nodejs.org/en/download/) to have node.js on your machine.
+Node.js installed (Recommendation : Current version). Download [node.js](https://nodejs.org/en/download/) and then install to have it on your machine.
 
 ## Setup
 
