@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "@nuxtjs/color-mode": "^3.1.8",
+    "@nuxtjs/svg": "^0.4.0",
     "autoprefixer": "^10.4.12",
     "nuxt": "3.0.0-rc.12",
     "postcss": "^8.4.18",
