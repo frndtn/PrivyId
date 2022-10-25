@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color: #091a28;
+  --color-primary: #5ABBAD;
+  --color-secondary: #8E8EA3;
+  --color-danger: #E42E2C;
+  --bg: #FFFFFF;
+  --bg-secondary: #E42E2C;
+  --border-color: #ddd;
+  --font-primary: 'Poppins', sans-serif;
+  --font-secondary: 'Raleway', sans-serif;
+}
+
+.dark-mode {
+  --color: #FFFFFF;
+  --color-primary: #5ABBAD;
+  --color-secondary: #fdf9f3;
+  --color-danger: #E42E2C;
+  --bg: #091a28;
+  --bg-secondary: #071521;
+  --border-color: #0d2538;
+}
+
+body {
+  font-family: var(--font-primary);
+  background-color: var(--bg);
+  color: var(--color);
+  transition: background-color 0.3s;
+}
+
+/* FONT */
+a {
+  color: var(--color);
+}
+/* END OF FONT */
